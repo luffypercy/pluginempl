@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.luffypercy.pluginempl.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.luffypercy.pluginempl.MyBundle
 
 class MyApplicationService {
 
